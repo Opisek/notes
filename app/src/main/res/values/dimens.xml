@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="topbar_height">25sp</dimen>
+    <dimen name="topbar_button_width">50sp</dimen>
+    <dimen name="topbar_font_size">15sp</dimen>
+</resources>
